@@ -10,7 +10,7 @@ on:
 jobs:
   test-and-sonarqube:
     name: Run Tests and SonarQube Analysis
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     
     steps:
       - uses: actions/checkout@v3
