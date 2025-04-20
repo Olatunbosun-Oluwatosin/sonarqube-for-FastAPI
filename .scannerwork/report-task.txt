@@ -1,0 +1,6 @@
+projectKey=sonarqube-for-FastAPI
+serverUrl=http://88.80.185.154:9000
+serverVersion=2025.1.1.104738
+dashboardUrl=http://88.80.185.154:9000/dashboard?id=sonarqube-for-FastAPI
+ceTaskId=d29d144a-b894-47fa-8a42-5fe8348b0d44
+ceTaskUrl=http://88.80.185.154:9000/api/ce/task?id=d29d144a-b894-47fa-8a42-5fe8348b0d44
